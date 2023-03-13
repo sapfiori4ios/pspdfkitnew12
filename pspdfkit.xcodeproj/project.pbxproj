@@ -16,6 +16,7 @@
 		BF20671129BF60970078AF0F /* pspdfkitTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF20671029BF60970078AF0F /* pspdfkitTests.swift */; };
 		BF20671B29BF60970078AF0F /* pspdfkitUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF20671A29BF60970078AF0F /* pspdfkitUITests.swift */; };
 		BF20671D29BF60970078AF0F /* pspdfkitUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF20671C29BF60970078AF0F /* pspdfkitUITestsLaunchTests.swift */; };
+		BF67846329BF65AA00DC2756 /* Document.pdf in Resources */ = {isa = PBXBuildFile; fileRef = BF67846229BF65AA00DC2756 /* Document.pdf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		BF20671629BF60970078AF0F /* pspdfkitUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = pspdfkitUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		BF20671A29BF60970078AF0F /* pspdfkitUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = pspdfkitUITests.swift; sourceTree = "<group>"; };
 		BF20671C29BF60970078AF0F /* pspdfkitUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = pspdfkitUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		BF67846229BF65AA00DC2756 /* Document.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = Document.pdf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 			isa = PBXGroup;
 			children = (
 				BF2066F929BF60940078AF0F /* AppDelegate.swift */,
+				BF67846229BF65AA00DC2756 /* Document.pdf */,
 				BF2066FB29BF60940078AF0F /* SceneDelegate.swift */,
 				BF2066FD29BF60940078AF0F /* ViewController.swift */,
 				BF2066FF29BF60940078AF0F /* Main.storyboard */,
@@ -234,6 +237,7 @@
 				BF20670629BF60970078AF0F /* LaunchScreen.storyboard in Resources */,
 				BF20670329BF60970078AF0F /* Assets.xcassets in Resources */,
 				BF20670129BF60940078AF0F /* Main.storyboard in Resources */,
+				BF67846329BF65AA00DC2756 /* Document.pdf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
